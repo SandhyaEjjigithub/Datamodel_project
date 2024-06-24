@@ -1,23 +1,25 @@
-Data Model:
+# Data Model:
 
 A data model is a conceptual representation of how data is organized and structured within a database or information system. It defines the relationships between different data elements and provides a framework for storing, retrieving, and manipulating data. The purpose of a data model is to facilitate communication between stakeholders involved in the development and use of a database by providing a common understanding of the data and its relationships.
 
-Relational Data Model: 
+# Relational Data Model: 
 
 Organizes data into tables with rows and columns, establishing relationships between tables. It is widely used in relational database management systems (RDBMS).
 
 In the relational model, data is organized into tables, also known as relations. Each table consists of rows and columns. Rows represent individual records, while columns represent attributes or fields.
 
-Data Modeling
+# Data Modeling
 
 Data modeling is essential for creating well-organized, accurate, and maintainable databases. It enhances communication, supports effective decision-making, and ensures that databases meet the requirements of the applications they support.
 
-RDBMS
+# RDBMS
 
 RDBMS stands for Relational Database Management System. It is a type of database management system that uses a relational model to organize and store data. The relational model involves representing data in tables with rows and columns, and it establishes relationships between these tables based on common fields. RDBMS has become a standard and widely adopted approach to managing and manipulating structured data.
 
 
-ACID
+
+
+# ACID
 
 ACID properties collectively provide a framework for designing and managing transactions in database systems. Ensuring the ACID properties helps maintain data integrity, consistency, and reliability, which is critical for the accurate and secure management of data in various applications, ranging from financial systems to e-commerce platforms.
 
