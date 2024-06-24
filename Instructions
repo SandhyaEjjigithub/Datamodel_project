@@ -1,0 +1,12 @@
+# PostgreSQL Database Connection and Operations with Python (Jupyter Notebook)
+
+This repository demonstrates how to connect to a PostgreSQL database using Python within a Jupyter Notebook environment and perform basic database operations.
+
+## Prerequisites
+
+1. **PostgreSQL:** Ensure you have PostgreSQL installed on your machine. You can download it from the [PostgreSQL official site](https://www.postgresql.org/download/).
+2. **Jupyter Notebook Python Libraries:** Install the necessary Python libraries (`psycopg2` for PostgreSQL connectivity and `pandas` for data manipulation) 
+within your Jupyter Notebook environment.
+
+**Note:** Once you've connected to the PostgreSQL database in your Jupyter Notebook, any changes you make, 
+such as creating databases, will be reflected in the actual PostgreSQL database server you're connected to. You can verify this by using the PostgreSQL command-line tools.
